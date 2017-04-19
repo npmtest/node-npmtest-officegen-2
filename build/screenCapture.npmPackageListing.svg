@@ -1,0 +1,462 @@
+<svg height="7342" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="7342" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-19 02:09:12 +0000 12620305 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 02:09:12 +0000      853 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 02:09:12 +0000     1089 bytes  LICENSE-MIT</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 02:09:12 +0000    19926 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 02:09:12 +0000    54697 bytes  examples/images_for_examples/image1.png</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 02:09:12 +0000   105057 bytes  examples/images_for_examples/image2.jpg</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 02:09:12 +0000   814105 bytes  examples/images_for_examples/image3.png</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 02:09:12 +0000     3709 bytes  examples/images_for_examples/sword_001.png</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 02:09:12 +0000     3618 bytes  examples/images_for_examples/sword_002.png</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 02:09:12 +0000     3656 bytes  examples/images_for_examples/sword_003.png</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 02:09:12 +0000     3930 bytes  examples/images_for_examples/sword_004.png</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 02:09:12 +0000     2198 bytes  examples/make_docx.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 02:09:12 +0000      943 bytes  examples/make_ppsx.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 02:09:12 +0000     9100 bytes  examples/make_pptx.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 02:09:12 +0000     1038 bytes  examples/make_xlsx.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 02:09:12 +0000    12446 bytes  examples/pptx_server.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 02:09:12 +0000   173825 bytes  examples/sounds_for_examples/001.mp3</tspan>
+<tspan x="10" y="298"> 17.  2017-04-19 02:09:12 +0000   760520 bytes  examples/sounds_for_examples/001.wav</tspan>
+<tspan x="10" y="314"> 18.  2017-04-19 02:09:12 +0000  1011638 bytes  experiments/out-1-nochart.pptx</tspan>
+<tspan x="10" y="330"> 19.  2017-04-19 02:09:12 +0000     2881 bytes  experiments/out-1-nochart/[Content_Types].xml</tspan>
+<tspan x="10" y="346"> 20.  2017-04-19 02:09:12 +0000     1717 bytes  experiments/out-1-nochart/docProps/app.xml</tspan>
+<tspan x="10" y="362"> 21.  2017-04-19 02:09:12 +0000      683 bytes  experiments/out-1-nochart/docProps/core.xml</tspan>
+<tspan x="10" y="378"> 22.  2017-04-19 02:09:12 +0000     2180 bytes  experiments/out-1-nochart/ppt/_rels/presentation\</tspan>
+<tspan x="10" y="394">.xml.rels</tspan>
+<tspan x="10" y="410"> 23.  2017-04-19 02:09:12 +0000    54697 bytes  experiments/out-1-nochart/ppt/media/image1.png</tspan>
+<tspan x="10" y="426"> 24.  2017-04-19 02:09:12 +0000   105057 bytes  experiments/out-1-nochart/ppt/media/image2.jpeg</tspan>
+<tspan x="10" y="442"> 25.  2017-04-19 02:09:12 +0000   814105 bytes  experiments/out-1-nochart/ppt/media/image3.png</tspan>
+<tspan x="10" y="458"> 26.  2017-04-19 02:09:12 +0000     3709 bytes  experiments/out-1-nochart/ppt/media/image4.png</tspan>
+<tspan x="10" y="474"> 27.  2017-04-19 02:09:12 +0000     3618 bytes  experiments/out-1-nochart/ppt/media/image5.png</tspan>
+<tspan x="10" y="490"> 28.  2017-04-19 02:09:12 +0000     3656 bytes  experiments/out-1-nochart/ppt/media/image6.png</tspan>
+<tspan x="10" y="506"> 29.  2017-04-19 02:09:12 +0000     3930 bytes  experiments/out-1-nochart/ppt/media/image7.png</tspan>
+<tspan x="10" y="522"> 30.  2017-04-19 02:09:12 +0000      816 bytes  experiments/out-1-nochart/ppt/presProps.xml</tspan>
+<tspan x="10" y="538"> 31.  2017-04-19 02:09:12 +0000     3509 bytes  experiments/out-1-nochart/ppt/presentation.xml</tspan>
+<tspan x="10" y="554"> 32.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-nochart/ppt/slideLayouts/_rels\</tspan>
+<tspan x="10" y="570">/slideLayout1.xml.rels</tspan>
+<tspan x="10" y="586"> 33.  2017-04-19 02:09:12 +0000     4177 bytes  experiments/out-1-nochart/ppt/slideLayouts/slide\</tspan>
+<tspan x="10" y="602">Layout1.xml</tspan>
+<tspan x="10" y="618"> 34.  2017-04-19 02:09:12 +0000      446 bytes  experiments/out-1-nochart/ppt/slideMasters/_rels\</tspan>
+<tspan x="10" y="634">/slideMaster1.xml.rels</tspan>
+<tspan x="10" y="650"> 35.  2017-04-19 02:09:12 +0000    11626 bytes  experiments/out-1-nochart/ppt/slideMasters/slide\</tspan>
+<tspan x="10" y="666">Master1.xml</tspan>
+<tspan x="10" y="682"> 36.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-nochart/ppt/slides/_rels/slide\</tspan>
+<tspan x="10" y="698">1.xml.rels</tspan>
+<tspan x="10" y="714"> 37.  2017-04-19 02:09:12 +0000      987 bytes  experiments/out-1-nochart/ppt/slides/_rels/slide\</tspan>
+<tspan x="10" y="730">10.xml.rels</tspan>
+<tspan x="10" y="746"> 38.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-nochart/ppt/slides/_rels/slide\</tspan>
+<tspan x="10" y="762">2.xml.rels</tspan>
+<tspan x="10" y="778"> 39.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-nochart/ppt/slides/_rels/slide\</tspan>
+<tspan x="10" y="794">3.xml.rels</tspan>
+<tspan x="10" y="810"> 40.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-nochart/ppt/slides/_rels/slide\</tspan>
+<tspan x="10" y="826">4.xml.rels</tspan>
+<tspan x="10" y="842"> 41.  2017-04-19 02:09:12 +0000      446 bytes  experiments/out-1-nochart/ppt/slides/_rels/slide\</tspan>
+<tspan x="10" y="858">5.xml.rels</tspan>
+<tspan x="10" y="874"> 42.  2017-04-19 02:09:12 +0000      447 bytes  experiments/out-1-nochart/ppt/slides/_rels/slide\</tspan>
+<tspan x="10" y="890">6.xml.rels</tspan>
+<tspan x="10" y="906"> 43.  2017-04-19 02:09:12 +0000      446 bytes  experiments/out-1-nochart/ppt/slides/_rels/slide\</tspan>
+<tspan x="10" y="922">7.xml.rels</tspan>
+<tspan x="10" y="938"> 44.  2017-04-19 02:09:12 +0000      447 bytes  experiments/out-1-nochart/ppt/slides/_rels/slide\</tspan>
+<tspan x="10" y="954">8.xml.rels</tspan>
+<tspan x="10" y="970"> 45.  2017-04-19 02:09:12 +0000      717 bytes  experiments/out-1-nochart/ppt/slides/_rels/slide\</tspan>
+<tspan x="10" y="986">9.xml.rels</tspan>
+<tspan x="10" y="1002"> 46.  2017-04-19 02:09:12 +0000      669 bytes  experiments/out-1-nochart/ppt/slides/slide1.xml</tspan>
+<tspan x="10" y="1018"> 47.  2017-04-19 02:09:12 +0000     5531 bytes  experiments/out-1-nochart/ppt/slides/slide10.xml</tspan>
+<tspan x="10" y="1034"> 48.  2017-04-19 02:09:12 +0000     4433 bytes  experiments/out-1-nochart/ppt/slides/slide2.xml</tspan>
+<tspan x="10" y="1050"> 49.  2017-04-19 02:09:12 +0000     1399 bytes  experiments/out-1-nochart/ppt/slides/slide3.xml</tspan>
+<tspan x="10" y="1066"> 50.  2017-04-19 02:09:12 +0000     6425 bytes  experiments/out-1-nochart/ppt/slides/slide4.xml</tspan>
+<tspan x="10" y="1082"> 51.  2017-04-19 02:09:12 +0000      957 bytes  experiments/out-1-nochart/ppt/slides/slide5.xml</tspan>
+<tspan x="10" y="1098"> 52.  2017-04-19 02:09:12 +0000      945 bytes  experiments/out-1-nochart/ppt/slides/slide6.xml</tspan>
+<tspan x="10" y="1114"> 53.  2017-04-19 02:09:12 +0000      957 bytes  experiments/out-1-nochart/ppt/slides/slide7.xml</tspan>
+<tspan x="10" y="1130"> 54.  2017-04-19 02:09:12 +0000      945 bytes  experiments/out-1-nochart/ppt/slides/slide8.xml</tspan>
+<tspan x="10" y="1146"> 55.  2017-04-19 02:09:12 +0000     2469 bytes  experiments/out-1-nochart/ppt/slides/slide9.xml</tspan>
+<tspan x="10" y="1162"> 56.  2017-04-19 02:09:12 +0000      182 bytes  experiments/out-1-nochart/ppt/tableStyles.xml</tspan>
+<tspan x="10" y="1178"> 57.  2017-04-19 02:09:12 +0000     6936 bytes  experiments/out-1-nochart/ppt/theme/theme1.xml</tspan>
+<tspan x="10" y="1194"> 58.  2017-04-19 02:09:12 +0000      771 bytes  experiments/out-1-nochart/ppt/viewProps.xml</tspan>
+<tspan x="10" y="1210"> 59.  2017-04-19 02:09:12 +0000  1024585 bytes  experiments/out-1-withbarchart.pptx</tspan>
+<tspan x="10" y="1226"> 60.  2017-04-19 02:09:12 +0000     3319 bytes  experiments/out-1-withbarchart/[Content_Types].x\</tspan>
+<tspan x="10" y="1242">ml</tspan>
+<tspan x="10" y="1258"> 61.  2017-04-19 02:09:12 +0000     1717 bytes  experiments/out-1-withbarchart/docProps/app.xml</tspan>
+<tspan x="10" y="1274"> 62.  2017-04-19 02:09:12 +0000      683 bytes  experiments/out-1-withbarchart/docProps/core.xml</tspan>
+<tspan x="10" y="1290"> 63.  2017-04-19 02:09:12 +0000     2180 bytes  experiments/out-1-withbarchart/ppt/_rels/present\</tspan>
+<tspan x="10" y="1306">ation.xml.rels</tspan>
+<tspan x="10" y="1322"> 64.  2017-04-19 02:09:12 +0000      562 bytes  experiments/out-1-withbarchart/ppt/charts/_rels/\</tspan>
+<tspan x="10" y="1338">chart1.xml.rels</tspan>
+<tspan x="10" y="1354"> 65.  2017-04-19 02:09:12 +0000     7659 bytes  experiments/out-1-withbarchart/ppt/charts/chart1\</tspan>
+<tspan x="10" y="1370">.xml</tspan>
+<tspan x="10" y="1386"> 66.  2017-04-19 02:09:12 +0000      878 bytes  experiments/out-1-withbarchart/ppt/charts/colors\</tspan>
+<tspan x="10" y="1402">1.xml</tspan>
+<tspan x="10" y="1418"> 67.  2017-04-19 02:09:12 +0000     9760 bytes  experiments/out-1-withbarchart/ppt/charts/style1\</tspan>
+<tspan x="10" y="1434">.xml</tspan>
+<tspan x="10" y="1450"> 68.  2017-04-19 02:09:12 +0000     8919 bytes  experiments/out-1-withbarchart/ppt/embeddings/Mi\</tspan>
+<tspan x="10" y="1466">crosoft_Excel_Worksheet1.xlsx</tspan>
+<tspan x="10" y="1482"> 69.  2017-04-19 02:09:12 +0000    54697 bytes  experiments/out-1-withbarchart/ppt/media/image1.\</tspan>
+<tspan x="10" y="1498">png</tspan>
+<tspan x="10" y="1514"> 70.  2017-04-19 02:09:12 +0000   105057 bytes  experiments/out-1-withbarchart/ppt/media/image2.\</tspan>
+<tspan x="10" y="1530">jpeg</tspan>
+<tspan x="10" y="1546"> 71.  2017-04-19 02:09:12 +0000   814105 bytes  experiments/out-1-withbarchart/ppt/media/image3.\</tspan>
+<tspan x="10" y="1562">png</tspan>
+<tspan x="10" y="1578"> 72.  2017-04-19 02:09:12 +0000     3709 bytes  experiments/out-1-withbarchart/ppt/media/image4.\</tspan>
+<tspan x="10" y="1594">png</tspan>
+<tspan x="10" y="1610"> 73.  2017-04-19 02:09:12 +0000     3618 bytes  experiments/out-1-withbarchart/ppt/media/image5.\</tspan>
+<tspan x="10" y="1626">png</tspan>
+<tspan x="10" y="1642"> 74.  2017-04-19 02:09:12 +0000     3656 bytes  experiments/out-1-withbarchart/ppt/media/image6.\</tspan>
+<tspan x="10" y="1658">png</tspan>
+<tspan x="10" y="1674"> 75.  2017-04-19 02:09:12 +0000     3930 bytes  experiments/out-1-withbarchart/ppt/media/image7.\</tspan>
+<tspan x="10" y="1690">png</tspan>
+<tspan x="10" y="1706"> 76.  2017-04-19 02:09:12 +0000      816 bytes  experiments/out-1-withbarchart/ppt/presProps.xml</tspan>
+<tspan x="10" y="1722"> 77.  2017-04-19 02:09:12 +0000     3677 bytes  experiments/out-1-withbarchart/ppt/presentation.\</tspan>
+<tspan x="10" y="1738">xml</tspan>
+<tspan x="10" y="1754"> 78.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-withbarchart/ppt/slideLayouts/\</tspan>
+<tspan x="10" y="1770">_rels/slideLayout1.xml.rels</tspan>
+<tspan x="10" y="1786"> 79.  2017-04-19 02:09:12 +0000     4176 bytes  experiments/out-1-withbarchart/ppt/slideLayouts/\</tspan>
+<tspan x="10" y="1802">slideLayout1.xml</tspan>
+<tspan x="10" y="1818"> 80.  2017-04-19 02:09:12 +0000      446 bytes  experiments/out-1-withbarchart/ppt/slideMasters/\</tspan>
+<tspan x="10" y="1834">_rels/slideMaster1.xml.rels</tspan>
+<tspan x="10" y="1850"> 81.  2017-04-19 02:09:12 +0000    11625 bytes  experiments/out-1-withbarchart/ppt/slideMasters/\</tspan>
+<tspan x="10" y="1866">slideMaster1.xml</tspan>
+<tspan x="10" y="1882"> 82.  2017-04-19 02:09:12 +0000      447 bytes  experiments/out-1-withbarchart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="1898">slide1.xml.rels</tspan>
+<tspan x="10" y="1914"> 83.  2017-04-19 02:09:12 +0000      987 bytes  experiments/out-1-withbarchart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="1930">slide10.xml.rels</tspan>
+<tspan x="10" y="1946"> 84.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-withbarchart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="1962">slide2.xml.rels</tspan>
+<tspan x="10" y="1978"> 85.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-withbarchart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="1994">slide3.xml.rels</tspan>
+<tspan x="10" y="2010"> 86.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-withbarchart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="2026">slide4.xml.rels</tspan>
+<tspan x="10" y="2042"> 87.  2017-04-19 02:09:12 +0000      446 bytes  experiments/out-1-withbarchart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="2058">slide5.xml.rels</tspan>
+<tspan x="10" y="2074"> 88.  2017-04-19 02:09:12 +0000      447 bytes  experiments/out-1-withbarchart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="2090">slide6.xml.rels</tspan>
+<tspan x="10" y="2106"> 89.  2017-04-19 02:09:12 +0000      446 bytes  experiments/out-1-withbarchart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="2122">slide7.xml.rels</tspan>
+<tspan x="10" y="2138"> 90.  2017-04-19 02:09:12 +0000      447 bytes  experiments/out-1-withbarchart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="2154">slide8.xml.rels</tspan>
+<tspan x="10" y="2170"> 91.  2017-04-19 02:09:12 +0000      717 bytes  experiments/out-1-withbarchart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="2186">slide9.xml.rels</tspan>
+<tspan x="10" y="2202"> 92.  2017-04-19 02:09:12 +0000     1356 bytes  experiments/out-1-withbarchart/ppt/slides/slide1\</tspan>
+<tspan x="10" y="2218">.xml</tspan>
+<tspan x="10" y="2234"> 93.  2017-04-19 02:09:12 +0000     5531 bytes  experiments/out-1-withbarchart/ppt/slides/slide1\</tspan>
+<tspan x="10" y="2250">0.xml</tspan>
+<tspan x="10" y="2266"> 94.  2017-04-19 02:09:12 +0000     4433 bytes  experiments/out-1-withbarchart/ppt/slides/slide2\</tspan>
+<tspan x="10" y="2282">.xml</tspan>
+<tspan x="10" y="2298"> 95.  2017-04-19 02:09:12 +0000     1399 bytes  experiments/out-1-withbarchart/ppt/slides/slide3\</tspan>
+<tspan x="10" y="2314">.xml</tspan>
+<tspan x="10" y="2330"> 96.  2017-04-19 02:09:12 +0000     6434 bytes  experiments/out-1-withbarchart/ppt/slides/slide4\</tspan>
+<tspan x="10" y="2346">.xml</tspan>
+<tspan x="10" y="2362"> 97.  2017-04-19 02:09:12 +0000      957 bytes  experiments/out-1-withbarchart/ppt/slides/slide5\</tspan>
+<tspan x="10" y="2378">.xml</tspan>
+<tspan x="10" y="2394"> 98.  2017-04-19 02:09:12 +0000      945 bytes  experiments/out-1-withbarchart/ppt/slides/slide6\</tspan>
+<tspan x="10" y="2410">.xml</tspan>
+<tspan x="10" y="2426"> 99.  2017-04-19 02:09:12 +0000      957 bytes  experiments/out-1-withbarchart/ppt/slides/slide7\</tspan>
+<tspan x="10" y="2442">.xml</tspan>
+<tspan x="10" y="2458">100.  2017-04-19 02:09:12 +0000      945 bytes  experiments/out-1-withbarchart/ppt/slides/slide8\</tspan>
+<tspan x="10" y="2474">.xml</tspan>
+<tspan x="10" y="2490">101.  2017-04-19 02:09:12 +0000     2469 bytes  experiments/out-1-withbarchart/ppt/slides/slide9\</tspan>
+<tspan x="10" y="2506">.xml</tspan>
+<tspan x="10" y="2522">102.  2017-04-19 02:09:12 +0000      182 bytes  experiments/out-1-withbarchart/ppt/tableStyles.x\</tspan>
+<tspan x="10" y="2538">ml</tspan>
+<tspan x="10" y="2554">103.  2017-04-19 02:09:12 +0000     6936 bytes  experiments/out-1-withbarchart/ppt/theme/theme1.\</tspan>
+<tspan x="10" y="2570">xml</tspan>
+<tspan x="10" y="2586">104.  2017-04-19 02:09:12 +0000      771 bytes  experiments/out-1-withbarchart/ppt/viewProps.xml</tspan>
+<tspan x="10" y="2602">105.  2017-04-19 02:09:12 +0000     3319 bytes  experiments/out-1-withchart/[Content_Types].xml</tspan>
+<tspan x="10" y="2618">106.  2017-04-19 02:09:12 +0000     1717 bytes  experiments/out-1-withchart/docProps/app.xml</tspan>
+<tspan x="10" y="2634">107.  2017-04-19 02:09:12 +0000      683 bytes  experiments/out-1-withchart/docProps/core.xml</tspan>
+<tspan x="10" y="2650">108.  2017-04-19 02:09:12 +0000     2180 bytes  experiments/out-1-withchart/ppt/_rels/presentati\</tspan>
+<tspan x="10" y="2666">on.xml.rels</tspan>
+<tspan x="10" y="2682">109.  2017-04-19 02:09:12 +0000      562 bytes  experiments/out-1-withchart/ppt/charts/_rels/cha\</tspan>
+<tspan x="10" y="2698">rt1.xml.rels</tspan>
+<tspan x="10" y="2714">110.  2017-04-19 02:09:12 +0000     7661 bytes  experiments/out-1-withchart/ppt/charts/chart1.xm\</tspan>
+<tspan x="10" y="2730">l</tspan>
+<tspan x="10" y="2746">111.  2017-04-19 02:09:12 +0000      878 bytes  experiments/out-1-withchart/ppt/charts/colors1.x\</tspan>
+<tspan x="10" y="2762">ml</tspan>
+<tspan x="10" y="2778">112.  2017-04-19 02:09:12 +0000     9674 bytes  experiments/out-1-withchart/ppt/charts/style1.xm\</tspan>
+<tspan x="10" y="2794">l</tspan>
+<tspan x="10" y="2810">113.  2017-04-19 02:09:12 +0000     8918 bytes  experiments/out-1-withchart/ppt/embeddings/Micro\</tspan>
+<tspan x="10" y="2826">soft_Excel_Worksheet1.xlsx</tspan>
+<tspan x="10" y="2842">114.  2017-04-19 02:09:12 +0000    54697 bytes  experiments/out-1-withchart/ppt/media/image1.png</tspan>
+<tspan x="10" y="2858">115.  2017-04-19 02:09:12 +0000   105057 bytes  experiments/out-1-withchart/ppt/media/image2.jpe\</tspan>
+<tspan x="10" y="2874">g</tspan>
+<tspan x="10" y="2890">116.  2017-04-19 02:09:12 +0000   814105 bytes  experiments/out-1-withchart/ppt/media/image3.png</tspan>
+<tspan x="10" y="2906">117.  2017-04-19 02:09:12 +0000     3709 bytes  experiments/out-1-withchart/ppt/media/image4.png</tspan>
+<tspan x="10" y="2922">118.  2017-04-19 02:09:12 +0000     3618 bytes  experiments/out-1-withchart/ppt/media/image5.png</tspan>
+<tspan x="10" y="2938">119.  2017-04-19 02:09:12 +0000     3656 bytes  experiments/out-1-withchart/ppt/media/image6.png</tspan>
+<tspan x="10" y="2954">120.  2017-04-19 02:09:12 +0000     3930 bytes  experiments/out-1-withchart/ppt/media/image7.png</tspan>
+<tspan x="10" y="2970">121.  2017-04-19 02:09:12 +0000      816 bytes  experiments/out-1-withchart/ppt/presProps.xml</tspan>
+<tspan x="10" y="2986">122.  2017-04-19 02:09:12 +0000     3677 bytes  experiments/out-1-withchart/ppt/presentation.xml</tspan>
+<tspan x="10" y="3002">123.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-withchart/ppt/slideLayouts/_re\</tspan>
+<tspan x="10" y="3018">ls/slideLayout1.xml.rels</tspan>
+<tspan x="10" y="3034">124.  2017-04-19 02:09:12 +0000     4177 bytes  experiments/out-1-withchart/ppt/slideLayouts/sli\</tspan>
+<tspan x="10" y="3050">deLayout1.xml</tspan>
+<tspan x="10" y="3066">125.  2017-04-19 02:09:12 +0000      446 bytes  experiments/out-1-withchart/ppt/slideMasters/_re\</tspan>
+<tspan x="10" y="3082">ls/slideMaster1.xml.rels</tspan>
+<tspan x="10" y="3098">126.  2017-04-19 02:09:12 +0000    11626 bytes  experiments/out-1-withchart/ppt/slideMasters/sli\</tspan>
+<tspan x="10" y="3114">deMaster1.xml</tspan>
+<tspan x="10" y="3130">127.  2017-04-19 02:09:12 +0000      447 bytes  experiments/out-1-withchart/ppt/slides/_rels/sli\</tspan>
+<tspan x="10" y="3146">de1.xml.rels</tspan>
+<tspan x="10" y="3162">128.  2017-04-19 02:09:12 +0000      987 bytes  experiments/out-1-withchart/ppt/slides/_rels/sli\</tspan>
+<tspan x="10" y="3178">de10.xml.rels</tspan>
+<tspan x="10" y="3194">129.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-withchart/ppt/slides/_rels/sli\</tspan>
+<tspan x="10" y="3210">de2.xml.rels</tspan>
+<tspan x="10" y="3226">130.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-withchart/ppt/slides/_rels/sli\</tspan>
+<tspan x="10" y="3242">de3.xml.rels</tspan>
+<tspan x="10" y="3258">131.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-withchart/ppt/slides/_rels/sli\</tspan>
+<tspan x="10" y="3274">de4.xml.rels</tspan>
+<tspan x="10" y="3290">132.  2017-04-19 02:09:12 +0000      446 bytes  experiments/out-1-withchart/ppt/slides/_rels/sli\</tspan>
+<tspan x="10" y="3306">de5.xml.rels</tspan>
+<tspan x="10" y="3322">133.  2017-04-19 02:09:12 +0000      447 bytes  experiments/out-1-withchart/ppt/slides/_rels/sli\</tspan>
+<tspan x="10" y="3338">de6.xml.rels</tspan>
+<tspan x="10" y="3354">134.  2017-04-19 02:09:12 +0000      446 bytes  experiments/out-1-withchart/ppt/slides/_rels/sli\</tspan>
+<tspan x="10" y="3370">de7.xml.rels</tspan>
+<tspan x="10" y="3386">135.  2017-04-19 02:09:12 +0000      447 bytes  experiments/out-1-withchart/ppt/slides/_rels/sli\</tspan>
+<tspan x="10" y="3402">de8.xml.rels</tspan>
+<tspan x="10" y="3418">136.  2017-04-19 02:09:12 +0000      717 bytes  experiments/out-1-withchart/ppt/slides/_rels/sli\</tspan>
+<tspan x="10" y="3434">de9.xml.rels</tspan>
+<tspan x="10" y="3450">137.  2017-04-19 02:09:12 +0000     1356 bytes  experiments/out-1-withchart/ppt/slides/slide1.xm\</tspan>
+<tspan x="10" y="3466">l</tspan>
+<tspan x="10" y="3482">138.  2017-04-19 02:09:12 +0000     5531 bytes  experiments/out-1-withchart/ppt/slides/slide10.x\</tspan>
+<tspan x="10" y="3498">ml</tspan>
+<tspan x="10" y="3514">139.  2017-04-19 02:09:12 +0000     4433 bytes  experiments/out-1-withchart/ppt/slides/slide2.xm\</tspan>
+<tspan x="10" y="3530">l</tspan>
+<tspan x="10" y="3546">140.  2017-04-19 02:09:12 +0000     1399 bytes  experiments/out-1-withchart/ppt/slides/slide3.xm\</tspan>
+<tspan x="10" y="3562">l</tspan>
+<tspan x="10" y="3578">141.  2017-04-19 02:09:12 +0000     6434 bytes  experiments/out-1-withchart/ppt/slides/slide4.xm\</tspan>
+<tspan x="10" y="3594">l</tspan>
+<tspan x="10" y="3610">142.  2017-04-19 02:09:12 +0000      957 bytes  experiments/out-1-withchart/ppt/slides/slide5.xm\</tspan>
+<tspan x="10" y="3626">l</tspan>
+<tspan x="10" y="3642">143.  2017-04-19 02:09:12 +0000      945 bytes  experiments/out-1-withchart/ppt/slides/slide6.xm\</tspan>
+<tspan x="10" y="3658">l</tspan>
+<tspan x="10" y="3674">144.  2017-04-19 02:09:12 +0000      957 bytes  experiments/out-1-withchart/ppt/slides/slide7.xm\</tspan>
+<tspan x="10" y="3690">l</tspan>
+<tspan x="10" y="3706">145.  2017-04-19 02:09:12 +0000      945 bytes  experiments/out-1-withchart/ppt/slides/slide8.xm\</tspan>
+<tspan x="10" y="3722">l</tspan>
+<tspan x="10" y="3738">146.  2017-04-19 02:09:12 +0000     2469 bytes  experiments/out-1-withchart/ppt/slides/slide9.xm\</tspan>
+<tspan x="10" y="3754">l</tspan>
+<tspan x="10" y="3770">147.  2017-04-19 02:09:12 +0000      182 bytes  experiments/out-1-withchart/ppt/tableStyles.xml</tspan>
+<tspan x="10" y="3786">148.  2017-04-19 02:09:12 +0000     6936 bytes  experiments/out-1-withchart/ppt/theme/theme1.xml</tspan>
+<tspan x="10" y="3802">149.  2017-04-19 02:09:12 +0000      771 bytes  experiments/out-1-withchart/ppt/viewProps.xml</tspan>
+<tspan x="10" y="3818">150.  2017-04-19 02:09:12 +0000  1024336 bytes  experiments/out-1-withpiechart.pptx</tspan>
+<tspan x="10" y="3834">151.  2017-04-19 02:09:12 +0000     3319 bytes  experiments/out-1-withpiechart/[Content_Types].x\</tspan>
+<tspan x="10" y="3850">ml</tspan>
+<tspan x="10" y="3866">152.  2017-04-19 02:09:12 +0000     1717 bytes  experiments/out-1-withpiechart/docProps/app.xml</tspan>
+<tspan x="10" y="3882">153.  2017-04-19 02:09:12 +0000      683 bytes  experiments/out-1-withpiechart/docProps/core.xml</tspan>
+<tspan x="10" y="3898">154.  2017-04-19 02:09:12 +0000     2180 bytes  experiments/out-1-withpiechart/ppt/_rels/present\</tspan>
+<tspan x="10" y="3914">ation.xml.rels</tspan>
+<tspan x="10" y="3930">155.  2017-04-19 02:09:12 +0000      562 bytes  experiments/out-1-withpiechart/ppt/charts/_rels/\</tspan>
+<tspan x="10" y="3946">chart1.xml.rels</tspan>
+<tspan x="10" y="3962">156.  2017-04-19 02:09:12 +0000     5144 bytes  experiments/out-1-withpiechart/ppt/charts/chart1\</tspan>
+<tspan x="10" y="3978">.xml</tspan>
+<tspan x="10" y="3994">157.  2017-04-19 02:09:12 +0000      878 bytes  experiments/out-1-withpiechart/ppt/charts/colors\</tspan>
+<tspan x="10" y="4010">1.xml</tspan>
+<tspan x="10" y="4026">158.  2017-04-19 02:09:12 +0000     9946 bytes  experiments/out-1-withpiechart/ppt/charts/style1\</tspan>
+<tspan x="10" y="4042">.xml</tspan>
+<tspan x="10" y="4058">159.  2017-04-19 02:09:12 +0000     8922 bytes  experiments/out-1-withpiechart/ppt/embeddings/Mi\</tspan>
+<tspan x="10" y="4074">crosoft_Excel_Worksheet1.xlsx</tspan>
+<tspan x="10" y="4090">160.  2017-04-19 02:09:12 +0000    54697 bytes  experiments/out-1-withpiechart/ppt/media/image1.\</tspan>
+<tspan x="10" y="4106">png</tspan>
+<tspan x="10" y="4122">161.  2017-04-19 02:09:12 +0000   105057 bytes  experiments/out-1-withpiechart/ppt/media/image2.\</tspan>
+<tspan x="10" y="4138">jpeg</tspan>
+<tspan x="10" y="4154">162.  2017-04-19 02:09:12 +0000   814105 bytes  experiments/out-1-withpiechart/ppt/media/image3.\</tspan>
+<tspan x="10" y="4170">png</tspan>
+<tspan x="10" y="4186">163.  2017-04-19 02:09:12 +0000     3709 bytes  experiments/out-1-withpiechart/ppt/media/image4.\</tspan>
+<tspan x="10" y="4202">png</tspan>
+<tspan x="10" y="4218">164.  2017-04-19 02:09:12 +0000     3618 bytes  experiments/out-1-withpiechart/ppt/media/image5.\</tspan>
+<tspan x="10" y="4234">png</tspan>
+<tspan x="10" y="4250">165.  2017-04-19 02:09:12 +0000     3656 bytes  experiments/out-1-withpiechart/ppt/media/image6.\</tspan>
+<tspan x="10" y="4266">png</tspan>
+<tspan x="10" y="4282">166.  2017-04-19 02:09:12 +0000     3930 bytes  experiments/out-1-withpiechart/ppt/media/image7.\</tspan>
+<tspan x="10" y="4298">png</tspan>
+<tspan x="10" y="4314">167.  2017-04-19 02:09:12 +0000      816 bytes  experiments/out-1-withpiechart/ppt/presProps.xml</tspan>
+<tspan x="10" y="4330">168.  2017-04-19 02:09:12 +0000     3677 bytes  experiments/out-1-withpiechart/ppt/presentation.\</tspan>
+<tspan x="10" y="4346">xml</tspan>
+<tspan x="10" y="4362">169.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-withpiechart/ppt/slideLayouts/\</tspan>
+<tspan x="10" y="4378">_rels/slideLayout1.xml.rels</tspan>
+<tspan x="10" y="4394">170.  2017-04-19 02:09:12 +0000     4175 bytes  experiments/out-1-withpiechart/ppt/slideLayouts/\</tspan>
+<tspan x="10" y="4410">slideLayout1.xml</tspan>
+<tspan x="10" y="4426">171.  2017-04-19 02:09:12 +0000      446 bytes  experiments/out-1-withpiechart/ppt/slideMasters/\</tspan>
+<tspan x="10" y="4442">_rels/slideMaster1.xml.rels</tspan>
+<tspan x="10" y="4458">172.  2017-04-19 02:09:12 +0000    11624 bytes  experiments/out-1-withpiechart/ppt/slideMasters/\</tspan>
+<tspan x="10" y="4474">slideMaster1.xml</tspan>
+<tspan x="10" y="4490">173.  2017-04-19 02:09:12 +0000      447 bytes  experiments/out-1-withpiechart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="4506">slide1.xml.rels</tspan>
+<tspan x="10" y="4522">174.  2017-04-19 02:09:12 +0000      987 bytes  experiments/out-1-withpiechart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="4538">slide10.xml.rels</tspan>
+<tspan x="10" y="4554">175.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-withpiechart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="4570">slide2.xml.rels</tspan>
+<tspan x="10" y="4586">176.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-withpiechart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="4602">slide3.xml.rels</tspan>
+<tspan x="10" y="4618">177.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-1-withpiechart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="4634">slide4.xml.rels</tspan>
+<tspan x="10" y="4650">178.  2017-04-19 02:09:12 +0000      446 bytes  experiments/out-1-withpiechart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="4666">slide5.xml.rels</tspan>
+<tspan x="10" y="4682">179.  2017-04-19 02:09:12 +0000      447 bytes  experiments/out-1-withpiechart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="4698">slide6.xml.rels</tspan>
+<tspan x="10" y="4714">180.  2017-04-19 02:09:12 +0000      446 bytes  experiments/out-1-withpiechart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="4730">slide7.xml.rels</tspan>
+<tspan x="10" y="4746">181.  2017-04-19 02:09:12 +0000      447 bytes  experiments/out-1-withpiechart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="4762">slide8.xml.rels</tspan>
+<tspan x="10" y="4778">182.  2017-04-19 02:09:12 +0000      717 bytes  experiments/out-1-withpiechart/ppt/slides/_rels/\</tspan>
+<tspan x="10" y="4794">slide9.xml.rels</tspan>
+<tspan x="10" y="4810">183.  2017-04-19 02:09:12 +0000     1358 bytes  experiments/out-1-withpiechart/ppt/slides/slide1\</tspan>
+<tspan x="10" y="4826">.xml</tspan>
+<tspan x="10" y="4842">184.  2017-04-19 02:09:12 +0000     5531 bytes  experiments/out-1-withpiechart/ppt/slides/slide1\</tspan>
+<tspan x="10" y="4858">0.xml</tspan>
+<tspan x="10" y="4874">185.  2017-04-19 02:09:12 +0000     4433 bytes  experiments/out-1-withpiechart/ppt/slides/slide2\</tspan>
+<tspan x="10" y="4890">.xml</tspan>
+<tspan x="10" y="4906">186.  2017-04-19 02:09:12 +0000     1399 bytes  experiments/out-1-withpiechart/ppt/slides/slide3\</tspan>
+<tspan x="10" y="4922">.xml</tspan>
+<tspan x="10" y="4938">187.  2017-04-19 02:09:12 +0000     6434 bytes  experiments/out-1-withpiechart/ppt/slides/slide4\</tspan>
+<tspan x="10" y="4954">.xml</tspan>
+<tspan x="10" y="4970">188.  2017-04-19 02:09:12 +0000      957 bytes  experiments/out-1-withpiechart/ppt/slides/slide5\</tspan>
+<tspan x="10" y="4986">.xml</tspan>
+<tspan x="10" y="5002">189.  2017-04-19 02:09:12 +0000      945 bytes  experiments/out-1-withpiechart/ppt/slides/slide6\</tspan>
+<tspan x="10" y="5018">.xml</tspan>
+<tspan x="10" y="5034">190.  2017-04-19 02:09:12 +0000      957 bytes  experiments/out-1-withpiechart/ppt/slides/slide7\</tspan>
+<tspan x="10" y="5050">.xml</tspan>
+<tspan x="10" y="5066">191.  2017-04-19 02:09:12 +0000      945 bytes  experiments/out-1-withpiechart/ppt/slides/slide8\</tspan>
+<tspan x="10" y="5082">.xml</tspan>
+<tspan x="10" y="5098">192.  2017-04-19 02:09:12 +0000     2469 bytes  experiments/out-1-withpiechart/ppt/slides/slide9\</tspan>
+<tspan x="10" y="5114">.xml</tspan>
+<tspan x="10" y="5130">193.  2017-04-19 02:09:12 +0000      182 bytes  experiments/out-1-withpiechart/ppt/tableStyles.x\</tspan>
+<tspan x="10" y="5146">ml</tspan>
+<tspan x="10" y="5162">194.  2017-04-19 02:09:12 +0000     6936 bytes  experiments/out-1-withpiechart/ppt/theme/theme1.\</tspan>
+<tspan x="10" y="5178">xml</tspan>
+<tspan x="10" y="5194">195.  2017-04-19 02:09:12 +0000      771 bytes  experiments/out-1-withpiechart/ppt/viewProps.xml</tspan>
+<tspan x="10" y="5210">196.  2017-04-19 02:09:12 +0000  1038627 bytes  experiments/out-office2007-chart.pptx</tspan>
+<tspan x="10" y="5226">197.  2017-04-19 02:09:12 +0000     3756 bytes  experiments/out-office2007-chart/[Content_Types]\</tspan>
+<tspan x="10" y="5242">.xml</tspan>
+<tspan x="10" y="5258">198.  2017-04-19 02:09:12 +0000     1462 bytes  experiments/out-office2007-chart/docProps/app.xm\</tspan>
+<tspan x="10" y="5274">l</tspan>
+<tspan x="10" y="5290">199.  2017-04-19 02:09:12 +0000      674 bytes  experiments/out-office2007-chart/docProps/core.x\</tspan>
+<tspan x="10" y="5306">ml</tspan>
+<tspan x="10" y="5322">200.  2017-04-19 02:09:12 +0000     2585 bytes  experiments/out-office2007-chart/ppt/_rels/prese\</tspan>
+<tspan x="10" y="5338">ntation.xml.rels</tspan>
+<tspan x="10" y="5354">201.  2017-04-19 02:09:12 +0000      327 bytes  experiments/out-office2007-chart/ppt/charts/_rel\</tspan>
+<tspan x="10" y="5370">s/chart1.xml.rels</tspan>
+<tspan x="10" y="5386">202.  2017-04-19 02:09:12 +0000      327 bytes  experiments/out-office2007-chart/ppt/charts/_rel\</tspan>
+<tspan x="10" y="5402">s/chart2.xml.rels</tspan>
+<tspan x="10" y="5418">203.  2017-04-19 02:09:12 +0000      327 bytes  experiments/out-office2007-chart/ppt/charts/_rel\</tspan>
+<tspan x="10" y="5434">s/chart3.xml.rels</tspan>
+<tspan x="10" y="5450">204.  2017-04-19 02:09:12 +0000     3020 bytes  experiments/out-office2007-chart/ppt/charts/char\</tspan>
+<tspan x="10" y="5466">t1.xml</tspan>
+<tspan x="10" y="5482">205.  2017-04-19 02:09:12 +0000     1429 bytes  experiments/out-office2007-chart/ppt/charts/char\</tspan>
+<tspan x="10" y="5498">t2.xml</tspan>
+<tspan x="10" y="5514">206.  2017-04-19 02:09:12 +0000     4643 bytes  experiments/out-office2007-chart/ppt/charts/char\</tspan>
+<tspan x="10" y="5530">t3.xml</tspan>
+<tspan x="10" y="5546">207.  2017-04-19 02:09:12 +0000     8514 bytes  experiments/out-office2007-chart/ppt/embeddings/\</tspan>
+<tspan x="10" y="5562">Microsoft_Office_Excel_Worksheet1.xlsx</tspan>
+<tspan x="10" y="5578">208.  2017-04-19 02:09:12 +0000     8433 bytes  experiments/out-office2007-chart/ppt/embeddings/\</tspan>
+<tspan x="10" y="5594">Microsoft_Office_Excel_Worksheet2.xlsx</tspan>
+<tspan x="10" y="5610">209.  2017-04-19 02:09:12 +0000     8582 bytes  experiments/out-office2007-chart/ppt/embeddings/\</tspan>
+<tspan x="10" y="5626">Microsoft_Office_Excel_Worksheet3.xlsx</tspan>
+<tspan x="10" y="5642">210.  2017-04-19 02:09:12 +0000    54697 bytes  experiments/out-office2007-chart/ppt/media/image\</tspan>
+<tspan x="10" y="5658">1.png</tspan>
+<tspan x="10" y="5674">211.  2017-04-19 02:09:12 +0000   105057 bytes  experiments/out-office2007-chart/ppt/media/image\</tspan>
+<tspan x="10" y="5690">2.jpeg</tspan>
+<tspan x="10" y="5706">212.  2017-04-19 02:09:12 +0000   814105 bytes  experiments/out-office2007-chart/ppt/media/image\</tspan>
+<tspan x="10" y="5722">3.png</tspan>
+<tspan x="10" y="5738">213.  2017-04-19 02:09:12 +0000     3709 bytes  experiments/out-office2007-chart/ppt/media/image\</tspan>
+<tspan x="10" y="5754">4.png</tspan>
+<tspan x="10" y="5770">214.  2017-04-19 02:09:12 +0000     3618 bytes  experiments/out-office2007-chart/ppt/media/image\</tspan>
+<tspan x="10" y="5786">5.png</tspan>
+<tspan x="10" y="5802">215.  2017-04-19 02:09:12 +0000     3656 bytes  experiments/out-office2007-chart/ppt/media/image\</tspan>
+<tspan x="10" y="5818">6.png</tspan>
+<tspan x="10" y="5834">216.  2017-04-19 02:09:12 +0000     3930 bytes  experiments/out-office2007-chart/ppt/media/image\</tspan>
+<tspan x="10" y="5850">7.png</tspan>
+<tspan x="10" y="5866">217.  2017-04-19 02:09:12 +0000      287 bytes  experiments/out-office2007-chart/ppt/presProps.x\</tspan>
+<tspan x="10" y="5882">ml</tspan>
+<tspan x="10" y="5898">218.  2017-04-19 02:09:12 +0000     3782 bytes  experiments/out-office2007-chart/ppt/presentatio\</tspan>
+<tspan x="10" y="5914">n.xml</tspan>
+<tspan x="10" y="5930">219.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-office2007-chart/ppt/slideLayout\</tspan>
+<tspan x="10" y="5946">s/_rels/slideLayout1.xml.rels</tspan>
+<tspan x="10" y="5962">220.  2017-04-19 02:09:12 +0000     4192 bytes  experiments/out-office2007-chart/ppt/slideLayout\</tspan>
+<tspan x="10" y="5978">s/slideLayout1.xml</tspan>
+<tspan x="10" y="5994">221.  2017-04-19 02:09:12 +0000      446 bytes  experiments/out-office2007-chart/ppt/slideMaster\</tspan>
+<tspan x="10" y="6010">s/_rels/slideMaster1.xml.rels</tspan>
+<tspan x="10" y="6026">222.  2017-04-19 02:09:12 +0000    11641 bytes  experiments/out-office2007-chart/ppt/slideMaster\</tspan>
+<tspan x="10" y="6042">s/slideMaster1.xml</tspan>
+<tspan x="10" y="6058">223.  2017-04-19 02:09:12 +0000      447 bytes  experiments/out-office2007-chart/ppt/slides/_rel\</tspan>
+<tspan x="10" y="6074">s/slide1.xml.rels</tspan>
+<tspan x="10" y="6090">224.  2017-04-19 02:09:12 +0000      446 bytes  experiments/out-office2007-chart/ppt/slides/_rel\</tspan>
+<tspan x="10" y="6106">s/slide10.xml.rels</tspan>
+<tspan x="10" y="6122">225.  2017-04-19 02:09:12 +0000      447 bytes  experiments/out-office2007-chart/ppt/slides/_rel\</tspan>
+<tspan x="10" y="6138">s/slide11.xml.rels</tspan>
+<tspan x="10" y="6154">226.  2017-04-19 02:09:12 +0000      717 bytes  experiments/out-office2007-chart/ppt/slides/_rel\</tspan>
+<tspan x="10" y="6170">s/slide12.xml.rels</tspan>
+<tspan x="10" y="6186">227.  2017-04-19 02:09:12 +0000      987 bytes  experiments/out-office2007-chart/ppt/slides/_rel\</tspan>
+<tspan x="10" y="6202">s/slide13.xml.rels</tspan>
+<tspan x="10" y="6218">228.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-office2007-chart/ppt/slides/_rel\</tspan>
+<tspan x="10" y="6234">s/slide2.xml.rels</tspan>
+<tspan x="10" y="6250">229.  2017-04-19 02:09:12 +0000      447 bytes  experiments/out-office2007-chart/ppt/slides/_rel\</tspan>
+<tspan x="10" y="6266">s/slide3.xml.rels</tspan>
+<tspan x="10" y="6282">230.  2017-04-19 02:09:12 +0000      447 bytes  experiments/out-office2007-chart/ppt/slides/_rel\</tspan>
+<tspan x="10" y="6298">s/slide4.xml.rels</tspan>
+<tspan x="10" y="6314">231.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-office2007-chart/ppt/slides/_rel\</tspan>
+<tspan x="10" y="6330">s/slide5.xml.rels</tspan>
+<tspan x="10" y="6346">232.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-office2007-chart/ppt/slides/_rel\</tspan>
+<tspan x="10" y="6362">s/slide6.xml.rels</tspan>
+<tspan x="10" y="6378">233.  2017-04-19 02:09:12 +0000      311 bytes  experiments/out-office2007-chart/ppt/slides/_rel\</tspan>
+<tspan x="10" y="6394">s/slide7.xml.rels</tspan>
+<tspan x="10" y="6410">234.  2017-04-19 02:09:12 +0000      446 bytes  experiments/out-office2007-chart/ppt/slides/_rel\</tspan>
+<tspan x="10" y="6426">s/slide8.xml.rels</tspan>
+<tspan x="10" y="6442">235.  2017-04-19 02:09:12 +0000      447 bytes  experiments/out-office2007-chart/ppt/slides/_rel\</tspan>
+<tspan x="10" y="6458">s/slide9.xml.rels</tspan>
+<tspan x="10" y="6474">236.  2017-04-19 02:09:12 +0000     1073 bytes  experiments/out-office2007-chart/ppt/slides/slid\</tspan>
+<tspan x="10" y="6490">e1.xml</tspan>
+<tspan x="10" y="6506">237.  2017-04-19 02:09:12 +0000      957 bytes  experiments/out-office2007-chart/ppt/slides/slid\</tspan>
+<tspan x="10" y="6522">e10.xml</tspan>
+<tspan x="10" y="6538">238.  2017-04-19 02:09:12 +0000      945 bytes  experiments/out-office2007-chart/ppt/slides/slid\</tspan>
+<tspan x="10" y="6554">e11.xml</tspan>
+<tspan x="10" y="6570">239.  2017-04-19 02:09:12 +0000     2469 bytes  experiments/out-office2007-chart/ppt/slides/slid\</tspan>
+<tspan x="10" y="6586">e12.xml</tspan>
+<tspan x="10" y="6602">240.  2017-04-19 02:09:12 +0000     5531 bytes  experiments/out-office2007-chart/ppt/slides/slid\</tspan>
+<tspan x="10" y="6618">e13.xml</tspan>
+<tspan x="10" y="6634">241.  2017-04-19 02:09:12 +0000     7500 bytes  experiments/out-office2007-chart/ppt/slides/slid\</tspan>
+<tspan x="10" y="6650">e2.xml</tspan>
+<tspan x="10" y="6666">242.  2017-04-19 02:09:12 +0000     1073 bytes  experiments/out-office2007-chart/ppt/slides/slid\</tspan>
+<tspan x="10" y="6682">e3.xml</tspan>
+<tspan x="10" y="6698">243.  2017-04-19 02:09:12 +0000     1073 bytes  experiments/out-office2007-chart/ppt/slides/slid\</tspan>
+<tspan x="10" y="6714">e4.xml</tspan>
+<tspan x="10" y="6730">244.  2017-04-19 02:09:12 +0000     4433 bytes  experiments/out-office2007-chart/ppt/slides/slid\</tspan>
+<tspan x="10" y="6746">e5.xml</tspan>
+<tspan x="10" y="6762">245.  2017-04-19 02:09:12 +0000     1399 bytes  experiments/out-office2007-chart/ppt/slides/slid\</tspan>
+<tspan x="10" y="6778">e6.xml</tspan>
+<tspan x="10" y="6794">246.  2017-04-19 02:09:12 +0000     6125 bytes  experiments/out-office2007-chart/ppt/slides/slid\</tspan>
+<tspan x="10" y="6810">e7.xml</tspan>
+<tspan x="10" y="6826">247.  2017-04-19 02:09:12 +0000      957 bytes  experiments/out-office2007-chart/ppt/slides/slid\</tspan>
+<tspan x="10" y="6842">e8.xml</tspan>
+<tspan x="10" y="6858">248.  2017-04-19 02:09:12 +0000      945 bytes  experiments/out-office2007-chart/ppt/slides/slid\</tspan>
+<tspan x="10" y="6874">e9.xml</tspan>
+<tspan x="10" y="6890">249.  2017-04-19 02:09:12 +0000     2856 bytes  experiments/out-office2007-chart/ppt/tableStyles\</tspan>
+<tspan x="10" y="6906">.xml</tspan>
+<tspan x="10" y="6922">250.  2017-04-19 02:09:12 +0000     6936 bytes  experiments/out-office2007-chart/ppt/theme/theme\</tspan>
+<tspan x="10" y="6938">1.xml</tspan>
+<tspan x="10" y="6954">251.  2017-04-19 02:09:12 +0000      862 bytes  experiments/out-office2007-chart/ppt/viewProps.x\</tspan>
+<tspan x="10" y="6970">ml</tspan>
+<tspan x="10" y="6986">252.  2017-04-19 02:09:12 +0000    19713 bytes  lib/basicgen.js</tspan>
+<tspan x="10" y="7002">253.  2017-04-19 02:09:12 +0000    36799 bytes  lib/gendocx.js</tspan>
+<tspan x="10" y="7018">254.  2017-04-19 02:09:12 +0000    15190 bytes  lib/genofficechart.js</tspan>
+<tspan x="10" y="7034">255.  2017-04-19 02:09:12 +0000    73060 bytes  lib/genpptx.js</tspan>
+<tspan x="10" y="7050">256.  2017-04-19 02:09:12 +0000    84268 bytes  lib/genpptx_2013.js</tspan>
+<tspan x="10" y="7066">257.  2017-04-19 02:09:12 +0000    17938 bytes  lib/genxlsx.js</tspan>
+<tspan x="10" y="7082">258.  2017-04-19 02:09:12 +0000     1716 bytes  lib/index.js</tspan>
+<tspan x="10" y="7098">259.  2017-04-19 02:09:12 +0000    26602 bytes  lib/msexcel-builder.js</tspan>
+<tspan x="10" y="7114">260.  2017-04-19 02:09:12 +0000    20986 bytes  lib/msofficegen.js</tspan>
+<tspan x="10" y="7130">261.  2017-04-19 02:09:12 +0000     5377 bytes  lib/openofficegen.js</tspan>
+<tspan x="10" y="7146">262.  2017-04-19 02:09:12 +0000    27033 bytes  lib/pptxshapes.js</tspan>
+<tspan x="10" y="7162">263.  2017-04-19 02:09:12 +0000      606 bytes  lib/tmpl/docProps/core.xml</tspan>
+<tspan x="10" y="7178">264.  2017-04-19 02:09:12 +0000     1059 bytes  lib/tmpl/xl/styles.xml</tspan>
+<tspan x="10" y="7194">265.  2017-04-19 02:09:12 +0000     6996 bytes  lib/tmpl/xl/theme/theme1.xml</tspan>
+<tspan x="10" y="7210">266.  2017-04-19 02:09:12 +0000   476672 bytes  lib/tool/7za.exe</tspan>
+<tspan x="10" y="7226">267.  2017-04-19 02:09:12 +0000     3152 bytes  package.json</tspan>
+<tspan x="10" y="7242">268.  2017-04-19 02:09:12 +0000     2233 bytes  plugins/templates/types/genmymstype.js</tspan>
+<tspan x="10" y="7258">269.  2017-04-19 02:09:12 +0000     2009 bytes  plugins/templates/types/genmytype.js</tspan>
+<tspan x="10" y="7274">270.  2017-04-19 02:09:12 +0000      221 bytes  run_test.py</tspan>
+<tspan x="10" y="7290">271.  2017-04-19 02:09:12 +0000    17839 bytes  src/msexcel-builder-bkup.coffee</tspan>
+<tspan x="10" y="7306">272.  2017-04-19 02:09:12 +0000   167936 bytes  tools/unzip.exe</tspan>
+<tspan x="10" y="7322">273.  2017-04-19 02:09:12 +0000   135168 bytes  tools/zip.exe</tspan>
+</text>
+</svg>
