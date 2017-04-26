@@ -1,6 +1,6 @@
 # npmtest-officegen-2
 
-#### test coverage for  [officegen-2 (v0.3.7)](https://github.com/vtloc/officegen#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-officegen-2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-officegen-2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-officegen-2.svg)](https://travis-ci.org/npmtest/node-npmtest-officegen-2)
+#### basic test coverage for  [officegen-2 (v0.3.7)](https://github.com/vtloc/officegen#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-officegen-2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-officegen-2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-officegen-2.svg)](https://travis-ci.org/npmtest/node-npmtest-officegen-2)
 
 #### Office Open XML Generator using Node.js streams. Supporting Microsoft Office 2007 and later Word (docx), PowerPoint (pptx,ppsx) and Excel (xlsx). This module is for all frameworks and environments. No need for any commandline tool - this module is doing everything inside it.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-officegen-2/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-officegen-2/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-officegen-2/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-officegen-2/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-officegen-2/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-officegen-2/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-officegen-2/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-officegen-2/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-officegen-2/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-officegen-2/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-officegen-2/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-officegen-2/build/coverage.html/index.html)
 
@@ -113,7 +113,8 @@
         "test": "node examples/make_pptx.js"
     },
     "url": "https://github.com/vtloc/officegen",
-    "version": "0.3.7"
+    "version": "0.3.7",
+    "bin": {}
 }
 ```
 
